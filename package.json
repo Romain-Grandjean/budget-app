@@ -16,7 +16,7 @@
     "publish": "gh-pages -d dist"
   },
   "author": "R~G",
-  "license": "ISC"
+  "license": "ISC",
   "devDependencies": {
     "file-loader": "^4.2.0",
     "gh-pages": "^2.1.1",
@@ -24,7 +24,7 @@
     "sass": "^1.23.0-module.beta.1"
   },
   "dependencies": {
+    "brand-colors": "^2.1.1",
     "live-server": "^1.2.1"
   }
 }
-
