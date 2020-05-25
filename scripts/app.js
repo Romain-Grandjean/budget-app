@@ -204,7 +204,7 @@ var uiController = (function() {
 
             var el =  document.getElementById(selectorID);
             el.parentNode.removeChild(el);
-            
+    
         },
 
         clearFields: function() {
